@@ -1,0 +1,6 @@
+{
+    "editor.renderWhitespace": "all",
+    "editor.formatOnPaste": true,
+    "editor.wordWrap": "on",
+    "prettier.tabWidth": 4
+}
