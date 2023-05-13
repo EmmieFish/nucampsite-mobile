@@ -342,18 +342,3 @@ drawerImage: {
 });
 
 export default Main;
-
-// const [campsites, setCampsites] = useState(CAMPSITES);
-// const [selectedCampsiteId, setSelectedCampsiteId] = useState();
-
-// <DirectoryScreen
-//     campsites={campsites}
-//     onPress={(campsiteId) => setSelectedCampsiteId(campsiteId)}
-// />;
-// <CampsiteInfoScreen
-//     campsite={
-//         campsites.filter(
-//             (campsite) => campsite.id === selectedCampsiteId
-//         )[0]
-//     }
-// />;
